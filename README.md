@@ -11,8 +11,14 @@ Header
 simple text
 
 This is inline `code`
+
+This is js
+```js
+  var a = "Some String"
 ```
-  This is multiline code
-  Second line of multiline code
+
+This is php
+```php
+  var $var = "This is variable"
 ```
   
